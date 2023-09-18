@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="O1_Spring_Core" />
+        <module name="O3_Bean_Life_Cycle" />
+        <module name="O2_Bean_Scopes" />
+        <module name="O4_DI_In_Spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="O1_Spring_Core" target="1.5" />
+      <module name="O2_Bean_Scopes" target="1.5" />
+      <module name="O3_Bean_Life_Cycle" target="1.5" />
+      <module name="O4_DI_In_Spring" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
