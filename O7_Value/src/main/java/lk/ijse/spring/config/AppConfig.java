@@ -12,6 +12,6 @@ public class AppConfig {
     }
     @Bean
     public String test(){
-        return "\nhello";
+        return "\nHello";
     }
 }
