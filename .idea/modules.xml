@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/O5_Spring_Modes.iml" filepath="$PROJECT_DIR$/O5_Spring_Modes.iml" />
       <module fileurl="file://$PROJECT_DIR$/O6_Spring_Configuration.iml" filepath="$PROJECT_DIR$/O6_Spring_Configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/O7_Value.iml" filepath="$PROJECT_DIR$/O7_Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O8_Spring_Environment.iml" filepath="$PROJECT_DIR$/O8_Spring_Environment.iml" />
     </modules>
   </component>
 </project>
