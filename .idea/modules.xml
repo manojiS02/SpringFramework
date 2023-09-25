@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/O2_Bean_Scopes.iml" filepath="$PROJECT_DIR$/O2_Bean_Scopes.iml" />
       <module fileurl="file://$PROJECT_DIR$/O3_Bean_Life_Cycle.iml" filepath="$PROJECT_DIR$/O3_Bean_Life_Cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/O4_DI_In_Spring.iml" filepath="$PROJECT_DIR$/O4_DI_In_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O5_Spring_Modes.iml" filepath="$PROJECT_DIR$/O5_Spring_Modes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O6_Spring_Configuration.iml" filepath="$PROJECT_DIR$/O6_Spring_Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O7_Value.iml" filepath="$PROJECT_DIR$/O7_Value.iml" />
     </modules>
   </component>
 </project>

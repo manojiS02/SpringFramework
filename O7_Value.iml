@@ -6,13 +6,13 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/O4_DI_In_Spring/target/classes" />
-    <output-test url="file://$MODULE_DIR$/O4_DI_In_Spring/target/test-classes" />
-    <content url="file://$MODULE_DIR$/O4_DI_In_Spring">
-      <sourceFolder url="file://$MODULE_DIR$/O4_DI_In_Spring/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/O4_DI_In_Spring/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/O4_DI_In_Spring/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/O4_DI_In_Spring/target" />
+    <output url="file://$MODULE_DIR$/O7_Value/target/classes" />
+    <output-test url="file://$MODULE_DIR$/O7_Value/target/test-classes" />
+    <content url="file://$MODULE_DIR$/O7_Value">
+      <sourceFolder url="file://$MODULE_DIR$/O7_Value/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/O7_Value/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/O7_Value/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/O7_Value/target" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
