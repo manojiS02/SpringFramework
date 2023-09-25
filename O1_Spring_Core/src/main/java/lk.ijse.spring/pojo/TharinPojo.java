@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 @Component("TharinPOJO")
 public class TharinPojo {
     public TharinPojo(){
-        System.out.println("Tharinta berilu");
+        System.out.println("Hi TharinPojo");
     }
 }

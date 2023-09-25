@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 public class NethuPojo {
     public  NethuPojo(){
-        System.out.println("Hukapan Nethupojo");
+        System.out.println("Hi Nethupojo");
     }
 
     public void NethuPojoFucking(){
