@@ -1,0 +1,17 @@
+package lk.ijse;
+
+import lk.ijse.bean.Boy;
+import lk.ijse.config.AppConfig;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class AppInitializer {
+    public static void main(String[] args) {
+        AnnotationConfigApplicationContext ctx= new AnnotationConfigApplicationContext();
+        ctx.register(AppConfig.class);
+        ctx.refresh();
+        ctx.registerShutdownHook();
+
+        Boy boy = ctx.getBean(Boy.class);
+        boy.trying();
+    }
+}
