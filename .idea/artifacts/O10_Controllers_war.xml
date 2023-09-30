@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="O10_Controllers:war">
+    <output-path>$PROJECT_DIR$/O10_Controllers/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>O10_Controllers</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="O10_Controllers-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="O10_Controllers:war exploded" />
+    </root>
+  </artifact>
+</component>

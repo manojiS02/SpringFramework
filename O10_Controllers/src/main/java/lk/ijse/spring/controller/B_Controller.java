@@ -6,12 +6,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-@RequestMapping("/a")
+@RequestMapping("/item")
 public class B_Controller {
     @GetMapping
-    public ModelAndView test(){
-        ModelAndView m = new ModelAndView("/customer");
-        m.addObject("ID","C005");
+    public ModelAndView getItemView(){
+        ModelAndView m = new ModelAndView("/item");
+        m.addObject("ItemName","Lux");
         return m;
     }
 }

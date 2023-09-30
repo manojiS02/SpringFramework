@@ -10,6 +10,7 @@
         <module name="O9_Spring_Web_MVC" />
         <module name="O8_Spring_Environment" />
         <module name="O4_DI_In_Spring" />
+        <module name="O10_Controllers" />
         <module name="O5_Spring_Modes" />
         <module name="O1_Spring_Core" />
         <module name="O3_Bean_Life_Cycle" />
@@ -18,6 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="O10_Controllers" target="1.8" />
       <module name="O1_Spring_Core" target="1.5" />
       <module name="O2_Bean_Scopes" target="1.5" />
       <module name="O3_Bean_Life_Cycle" target="1.6" />
