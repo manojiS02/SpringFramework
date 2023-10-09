@@ -2,24 +2,33 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="O13_Spring_with_JSON" />
         <module name="O7_Value" />
-        <module name="O9_Spring_Web_MVC" />
-        <module name="O8_Spring_Environment" />
         <module name="O4_DI_In_Spring" />
-        <module name="O10_Controllers" />
         <module name="O5_Spring_Modes" />
         <module name="O1_Spring_Core" />
         <module name="O3_Bean_Life_Cycle" />
+        <module name="O12_Mapping_Spec" />
+        <module name="O9_Spring_Web_MVC" />
+        <module name="O8_Spring_Environment" />
+        <module name="O11_REST_Controllers" />
+        <module name="O14_Spring_Data_JPA" />
+        <module name="O10_Controllers" />
         <module name="O6_Spring_Configuration" />
         <module name="O2_Bean_Scopes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="O10_Controllers" target="1.8" />
+      <module name="O11_REST_Controllers" target="1.8" />
+      <module name="O12_Mapping_Spec" target="1.8" />
+      <module name="O13_Spring_with_JSON" target="1.8" />
+      <module name="O14_Spring_Data_JPA" target="1.8" />
       <module name="O1_Spring_Core" target="1.5" />
       <module name="O2_Bean_Scopes" target="1.5" />
       <module name="O3_Bean_Life_Cycle" target="1.6" />

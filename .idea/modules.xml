@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/O10_Controllers.iml" filepath="$PROJECT_DIR$/O10_Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O11_REST_Controllers.iml" filepath="$PROJECT_DIR$/O11_REST_Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O12_Mapping_Spec.iml" filepath="$PROJECT_DIR$/O12_Mapping_Spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O13_Spring_with_JSON.iml" filepath="$PROJECT_DIR$/O13_Spring_with_JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/O14_Spring_Data_JPA.iml" filepath="$PROJECT_DIR$/O14_Spring_Data_JPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/O1_Spring_Core.iml" filepath="$PROJECT_DIR$/O1_Spring_Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/O2_Bean_Scopes.iml" filepath="$PROJECT_DIR$/O2_Bean_Scopes.iml" />
       <module fileurl="file://$PROJECT_DIR$/O3_Bean_Life_Cycle.iml" filepath="$PROJECT_DIR$/O3_Bean_Life_Cycle.iml" />

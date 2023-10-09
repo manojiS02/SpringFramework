@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../O14_Spring_Data_JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../O14_Spring_Data_JPA/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O10_Controllers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O10_Controllers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O11_REST_Controllers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O11_REST_Controllers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O12_Mapping_Spec/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O12_Mapping_Spec/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O13_Spring_with_JSON/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O13_Spring_with_JSON/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O14_Spring_Data_JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/O14_Spring_Data_JPA/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O4_DI_In_Spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O4_DI_In_Spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/O5_Spring_Modes/src/main/java" charset="UTF-8" />
